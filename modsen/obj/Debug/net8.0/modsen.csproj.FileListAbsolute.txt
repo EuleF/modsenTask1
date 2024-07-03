@@ -1,0 +1,14 @@
+C:\Users\EuleF\Desktop\modsen\modsen\bin\Debug\net8.0\modsen.exe
+C:\Users\EuleF\Desktop\modsen\modsen\bin\Debug\net8.0\modsen.deps.json
+C:\Users\EuleF\Desktop\modsen\modsen\bin\Debug\net8.0\modsen.runtimeconfig.json
+C:\Users\EuleF\Desktop\modsen\modsen\bin\Debug\net8.0\modsen.dll
+C:\Users\EuleF\Desktop\modsen\modsen\bin\Debug\net8.0\modsen.pdb
+C:\Users\EuleF\Desktop\modsen\modsen\obj\Debug\net8.0\modsen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EuleF\Desktop\modsen\modsen\obj\Debug\net8.0\modsen.AssemblyInfoInputs.cache
+C:\Users\EuleF\Desktop\modsen\modsen\obj\Debug\net8.0\modsen.AssemblyInfo.cs
+C:\Users\EuleF\Desktop\modsen\modsen\obj\Debug\net8.0\modsen.csproj.CoreCompileInputs.cache
+C:\Users\EuleF\Desktop\modsen\modsen\obj\Debug\net8.0\modsen.dll
+C:\Users\EuleF\Desktop\modsen\modsen\obj\Debug\net8.0\refint\modsen.dll
+C:\Users\EuleF\Desktop\modsen\modsen\obj\Debug\net8.0\modsen.pdb
+C:\Users\EuleF\Desktop\modsen\modsen\obj\Debug\net8.0\modsen.genruntimeconfig.cache
+C:\Users\EuleF\Desktop\modsen\modsen\obj\Debug\net8.0\ref\modsen.dll
